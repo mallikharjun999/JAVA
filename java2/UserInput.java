@@ -6,6 +6,6 @@ public class UserInput {
         System.out.println("Please enter the value:");
         Scanner s = new Scanner(System.in); 
         b = s.nextInt(); 
-        System.out.println("The value is " + b); 
+        System.out.println("The value is " + b);
     }
 }
